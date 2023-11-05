@@ -161,5 +161,8 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Jashon Osala - [GitHub](https://github.com/osala-eng)
 
 Second part of Airbnb: Joann Vuong
+Leonard Odoi
+Ome Upeleomo
+
 ## License
 Public Domain. No copy write protection. 
